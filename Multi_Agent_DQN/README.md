@@ -4,11 +4,8 @@ In this Project, we Implement a Forest Environment which in fires take place and
 ## Environment
 
 
-https://user-images.githubusercontent.com/26162722/189253038-ce6c4cd7-d646-45a0-8d2a-8f102e5c6a7c.mp4
-
-
-
 ## Training
+
 
 ## Results
 
