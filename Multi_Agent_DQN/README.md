@@ -2,9 +2,10 @@
 In this Project, we Implement a Forest Environment which in fires take place and our agents' goal is to stop the fire and save the forest.
 
 ## Environment
-<video src='env.avi' width=180/>
+
 
 ## Training
+
 
 ## Results
 
