@@ -1,23 +1,23 @@
-# Multi‑Agent Distributed Reinforcement Leanrning for grid Environment
-In this project, I've Implemented a grid environemnt with 2 agents and 2 goal states. The agents have to learn to reach the goal states with recieving the maximum reward and avoiding obstackles.
-The environement is shown below  
+# Multi‑Agent Distributed Reinforcement Learning for grid Environment
+In this project, I've Implemented a grid environment with 2 agents and 2 goal states. The agents have to learn to reach the goal states by receiving the maximum reward and avoiding obstacles.
+The environment is shown below  
   
 ![Environment](Environment.jpg "Environment")
   
 Elements of Environment:
 - Agents: Blue Squares
-- Obstackles: Red Squares
+- Obstacles: Red Squares
 - Goal States: Green Squares
 
 ## Training
-After training each agent lonely with sarsa algorithm, I implemented several distributed algorithms like:
-- Distributed On-Policy algorithm like SARSA
+After training each agent lonely with the sarsa algorithm, I implemented several distributed algorithms like:
+- Distributed On-Policy algorithms like SARSA
 - Min-Max Q-Learning
 - Belief Based Algorithm 
 - Distributed Actor-Critic
 
 ## Results
-Average Reward during the learning episodes for SARSA, Min-Max Q-Learning and Belief-Based learning is shown at Below:
+The average Reward during the learning episodes for SARSA, Min-Max Q-Learning, and Belief-Based learning is shown Below:
   
 - Average Reward during the learning episodes for SARSA  
   
