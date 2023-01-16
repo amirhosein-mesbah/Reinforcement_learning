@@ -11,6 +11,7 @@ This repository contains the implementation of a wide variety of Reinforcement L
 
 ### Deep RL
 - [Multi-Agent Deep Reinforcement Learning for Fighting Forest Fires](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Multi_Agent_DQN)
+- [Working with stable_baseline (PPO algorithm) & gym library](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/PPO_LunarLander_stableBaseline)
 
 ### Distributed RL
 - [Multi‑Agent Reinforcement leanrning for grid Environment](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Distributed_RL)
