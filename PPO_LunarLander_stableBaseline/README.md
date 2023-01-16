@@ -5,5 +5,8 @@ in this notebook we're going to work with `stable_baseline` and `gym` library in
 - this mini project is for hugging face [deep-RL course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt).
 
 
-<video src="https://github.com/amirhosein-mesbah/Reinforcement_learning/blob/main/PPO_LunarLander_stableBaseline/replay.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+
+
+https://user-images.githubusercontent.com/26162722/212664922-22f98ed1-a1f6-46c4-b57a-4c531ea67b61.mp4
+
