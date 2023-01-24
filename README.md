@@ -7,7 +7,8 @@ This repository contains the implementation of a wide variety of Reinforcement L
 - [network routing with bandits](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Network_routing_with_bandits)
 
 ### MDP
-- TBA
+#### TD Learning:
+- Q-Learning on FrozenLake and Taxi environment
 
 ### Deep RL
 - [Multi-Agent Deep Reinforcement Learning for Fighting Forest Fires](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Multi_Agent_DQN)
