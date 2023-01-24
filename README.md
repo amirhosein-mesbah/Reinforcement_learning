@@ -8,7 +8,7 @@ This repository contains the implementation of a wide variety of Reinforcement L
 
 ### MDP
 #### TD Learning:
-- Q-Learning on FrozenLake and Taxi environment
+- [Q-Learning on FrozenLake and Taxi environment](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Q_Learning)
 
 ### Deep RL
 - [Multi-Agent Deep Reinforcement Learning for Fighting Forest Fires](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Multi_Agent_DQN)
