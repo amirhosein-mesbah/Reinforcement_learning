@@ -3,6 +3,9 @@ This repository contains the implementation of a wide variety of Reinforcement L
 
 ## List of Contents:
 
+### Environments
+ - [PyBullet Physics]()
+
 ### Multi-Armed-Bandits
 - [network routing with bandits](https://github.com/amirhosein-mesbah/Reinforcement_learning/tree/main/Network_routing_with_bandits)
 
