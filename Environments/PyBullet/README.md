@@ -1,6 +1,9 @@
 # Pybullet Physics Environments
 
-Try to play with internersting pybullet-based environmentts and get a random render.
+Try to play with internersting pybullet-based environmentts and get a random render.  
+
+you can [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p4_s9BOfAGYE3RTS0GeWAB4-WhJz-F_m?usp=sharing) and use these environments for any method you want.
+
 
 ## Pybullet envs
 
